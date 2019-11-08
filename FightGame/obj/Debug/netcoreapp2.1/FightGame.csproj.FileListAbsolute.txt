@@ -1,0 +1,43 @@
+C:\Users\andreyyordanov\Desktop\FightGame\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.deps.json
+C:\Users\andreyyordanov\Desktop\FightGame\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.runtimeconfig.json
+C:\Users\andreyyordanov\Desktop\FightGame\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.runtimeconfig.dev.json
+C:\Users\andreyyordanov\Desktop\FightGame\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.dll
+C:\Users\andreyyordanov\Desktop\FightGame\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.pdb
+C:\Users\andreyyordanov\Desktop\FightGame\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.csprojAssemblyReference.cache
+C:\Users\andreyyordanov\Desktop\FightGame\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.csproj.CoreCompileInputs.cache
+C:\Users\andreyyordanov\Desktop\FightGame\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.AssemblyInfoInputs.cache
+C:\Users\andreyyordanov\Desktop\FightGame\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.AssemblyInfo.cs
+C:\Users\andreyyordanov\Desktop\FightGame\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.dll
+C:\Users\andreyyordanov\Desktop\FightGame\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.pdb
+C:\Users\andreyyordanov\Desktop\FightGame_changed\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.deps.json
+C:\Users\andreyyordanov\Desktop\FightGame_changed\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.runtimeconfig.json
+C:\Users\andreyyordanov\Desktop\FightGame_changed\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.runtimeconfig.dev.json
+C:\Users\andreyyordanov\Desktop\FightGame_changed\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.dll
+C:\Users\andreyyordanov\Desktop\FightGame_changed\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.pdb
+C:\Users\andreyyordanov\Desktop\FightGame_changed\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.csprojAssemblyReference.cache
+C:\Users\andreyyordanov\Desktop\FightGame_changed\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.csproj.CoreCompileInputs.cache
+C:\Users\andreyyordanov\Desktop\FightGame_changed\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.AssemblyInfoInputs.cache
+C:\Users\andreyyordanov\Desktop\FightGame_changed\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.AssemblyInfo.cs
+C:\Users\andreyyordanov\Desktop\FightGame_changed\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.dll
+C:\Users\andreyyordanov\Desktop\FightGame_changed\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.pdb
+C:\Users\andreyyordanov\Desktop\FightGame_new\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.deps.json
+C:\Users\andreyyordanov\Desktop\FightGame_new\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.runtimeconfig.json
+C:\Users\andreyyordanov\Desktop\FightGame_new\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.runtimeconfig.dev.json
+C:\Users\andreyyordanov\Desktop\FightGame_new\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.dll
+C:\Users\andreyyordanov\Desktop\FightGame_new\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.pdb
+C:\Users\andreyyordanov\Desktop\FightGame_new\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.csprojAssemblyReference.cache
+C:\Users\andreyyordanov\Desktop\FightGame_new\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.csproj.CoreCompileInputs.cache
+C:\Users\andreyyordanov\Desktop\FightGame_new\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.AssemblyInfoInputs.cache
+C:\Users\andreyyordanov\Desktop\FightGame_new\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.AssemblyInfo.cs
+C:\Users\andreyyordanov\Desktop\FightGame_new\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.dll
+C:\Users\andreyyordanov\Desktop\FightGame_new\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.pdb
+C:\Users\marksussex\Documents\C# Projects\FightGame_new\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.deps.json
+C:\Users\marksussex\Documents\C# Projects\FightGame_new\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.runtimeconfig.json
+C:\Users\marksussex\Documents\C# Projects\FightGame_new\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.runtimeconfig.dev.json
+C:\Users\marksussex\Documents\C# Projects\FightGame_new\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.dll
+C:\Users\marksussex\Documents\C# Projects\FightGame_new\FightGame\FightGame\bin\Debug\netcoreapp2.1\FightGame.pdb
+C:\Users\marksussex\Documents\C# Projects\FightGame_new\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.csprojAssemblyReference.cache
+C:\Users\marksussex\Documents\C# Projects\FightGame_new\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.AssemblyInfoInputs.cache
+C:\Users\marksussex\Documents\C# Projects\FightGame_new\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.AssemblyInfo.cs
+C:\Users\marksussex\Documents\C# Projects\FightGame_new\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.dll
+C:\Users\marksussex\Documents\C# Projects\FightGame_new\FightGame\FightGame\obj\Debug\netcoreapp2.1\FightGame.pdb
