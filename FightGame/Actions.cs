@@ -25,7 +25,7 @@ namespace FightGame
 
         private static string Defend(ref BaseClass defender)
         {
-            defender.HitPoints += defender.Armour + 2;
+            defender.HitPoints += defender.Armour + 3;
             return defender.HitPoints.ToString() + " hitpoints left on " + defender.Name;
         }
 
