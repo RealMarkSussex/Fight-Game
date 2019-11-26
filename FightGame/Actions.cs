@@ -4,6 +4,7 @@ namespace FightGame
 {
     public static class Actions
     {
+        private const int defencePower = 6;
         private static string Attack(ref BaseClass attacked, ref BaseClass attacker)
         {
             if (attacker.Damage / 2 < attacked.Armour)
@@ -25,7 +26,7 @@ namespace FightGame
 
         private static string Defend(ref BaseClass defender)
         {
-            defender.HitPoints += defender.Armour + 6;
+            defender.HitPoints += defender.Armour + defencePower;
             return defender.HitPoints.ToString() + " hitpoints left on " + defender.Name;
         }
 
